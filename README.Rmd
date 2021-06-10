@@ -19,9 +19,6 @@ This `README` is an attempt to collate a list of packages that may be helpful
 for teaching people how to switch between a coding language or ecosystem they
 know and the one they wish to learn.
 
-To see the high-resolution versions of examples, see the folder:
-<https://github.com/IndrajeetPatil/codeswitchR/examples>
-
 Task | What you know | What you would like to learn | Translator 📦 | Examples
 ------ | ----------------- | ----------------- | ----------------- | ----------------- 
 data wrangling + analysis | `dplyr` | `data.table` | `dtplyr` | `r knitr::include_graphics("examples/dplyr_datatable.jpeg")`
@@ -30,3 +27,10 @@ data wrangling + analysis | `SQL` | `dplyr` | `tidyquery` | `r knitr::include_gr
 writing equations | `LaTeX` | `plotmath` | `latex2exp` | `r knitr::include_graphics("examples/latex_plotmath.jpeg")`
 writing equations | `plotmath` | `LaTeX` | `simsalapar` | `r knitr::include_graphics("examples/plotmath_latex.jpeg")`
 writing reports | `markdown` | `LaTeX`, `HTML` | `commonmark` | `r knitr::include_graphics("examples/markdown_many.jpeg")`
+
+
+<!-- To create a copy of the `README.html`. -->
+
+<!-- ```{r} -->
+<!-- fs::file_copy("README.html", "index.html") -->
+<!-- ``` -->
