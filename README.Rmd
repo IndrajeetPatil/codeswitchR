@@ -16,18 +16,33 @@ knitr::opts_chunk$set(
 # `codeswitchR`: Code switching in R
 
 This `README` is an attempt to collate a list of packages that may be helpful
-for teaching people how to switch between a coding language or ecosystem they
-know and the one they wish to learn.
+for teaching people how to switch between coding languages or ecosystems they
+**know** and the one they wish to **learn**. 
 
-Task | What you know | What you would like to learn | Translator 📦 | Examples
------- | ----------------- | ----------------- | ----------------- | ----------------- 
-data wrangling + analysis | `dplyr` | `data.table` | `dtplyr` | `r knitr::include_graphics("examples/dplyr_datatable.jpeg")`
-data wrangling + analysis | `dplyr` | `SQL` | `dbplyr` | `r knitr::include_graphics("examples/dplyr_sql.jpeg")`
-data wrangling + analysis | `SQL` | `dplyr` | `tidyquery` | `r knitr::include_graphics("examples/sql_dplyr.jpeg")`
-writing equations | `LaTeX` | `plotmath` | `latex2exp` | `r knitr::include_graphics("examples/latex_plotmath.jpeg")`
-writing equations | `plotmath` | `LaTeX` | `simsalapar` | `r knitr::include_graphics("examples/plotmath_latex.jpeg")`
-writing reports | `markdown` | `LaTeX`, `HTML` | `commonmark` | `r knitr::include_graphics("examples/markdown_many.jpeg")`
+---
 
+This is in no way a complete list and I would appreciate if more resources are
+added. Feel free to pull requests for the same. 😊
+
+---
+
+# Switch it up 🔀
+
+Not all of the packages mentioned below can help you *fully* learn a new
+programming language, but the idea is to have a starting point that is
+**familiar** and **comfortable**, which would hopefully minimize the changes
+that you just give up in the early phase when the learning curve is steep.
+
+What you know | What you would like to learn | Translator 📦 | Examples
+----------------- | ----------------- | ----------------- | ----------------- 
+`dplyr` | `data.table` | [`dtplyr`](https://dtplyr.tidyverse.org/articles/translation.html) | `r knitr::include_graphics("examples/dplyr_datatable.jpeg")`
+`dplyr` | `SQL` | [`dbplyr`](https://dbplyr.tidyverse.org/articles/sql.html) | `r knitr::include_graphics("examples/dplyr_sql.jpeg")`
+`SQL` | `dplyr` | [`tidyquery`](https://github.com/ianmcook/tidyquery/blob/master/README.md) | `r knitr::include_graphics("examples/sql_dplyr.jpeg")`
+`LaTeX` | `R`/`plotmath` | [`latex2exp`](https://cran.r-project.org/web/packages/latex2exp/vignettes/using-latex2exp.html) | `r knitr::include_graphics("examples/latex_plotmath.jpeg")`
+`R`/`plotmath` | `LaTeX` | [`simsalapar`](https://rstudio-pubs-static.s3.amazonaws.com/268872_483cb8ee959642b68e9cf2b84eda1e06.html) | `r knitr::include_graphics("examples/plotmath_latex.jpeg")`
+`markdown` | `LaTeX`, `HTML`, `xml` | [`commonmark`](https://github.com/r-lib/commonmark) | `r knitr::include_graphics("examples/markdown_many.jpeg")`
+`R` | `JSON` | [`jsonlite`](https://cran.r-project.org/web/packages/jsonlite/vignettes/json-mapping.pdf) | `r knitr::include_graphics("examples/r_json.jpeg")`
+`R` | `YAML` | [`ymlthis`](https://ymlthis.r-lib.org/index.html) | `r knitr::include_graphics("examples/r_yaml.png")`
 
 <!-- To create a copy of the `README.html`. -->
 
