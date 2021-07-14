@@ -17,7 +17,7 @@ resources are added. Feel free to pull requests for the same. 😊
 Not all of the packages mentioned below can help you *fully* learn a new
 programming language, but the idea is to have a starting point that is
 **familiar** and **comfortable**, which would hopefully minimize the
-changes that you just give up in the early phase when the learning curve
+chances that you just give up in the early phase when the learning curve
 is steep.
 
 | What you know  | What you would like to learn | Translator 📦                                                                                              | Examples                                                 |
