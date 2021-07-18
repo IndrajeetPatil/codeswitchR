@@ -12,10 +12,6 @@ programming language, but the idea is to have a starting point that is
 chances that you just give up in the early phase when the learning curve
 is steep.
 
-``` r
-knitr::include_graphics("examples/monster_support.jpeg")
-```
-
 <img src="examples/monster_support.jpeg" width="100%" />
 
 <!-- <center> -->

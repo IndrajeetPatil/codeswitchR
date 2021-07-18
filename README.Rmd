@@ -25,7 +25,7 @@ programming language, but the idea is to have a starting point that is
 **familiar** and **comfortable**, which would hopefully minimize the chances
 that you just give up in the early phase when the learning curve is steep.
 
-```{r monsters, out.width = "100%"}
+```{r monsters, out.width = "100%", echo=FALSE}
 knitr::include_graphics("examples/monster_support.jpeg")
 ```
 
