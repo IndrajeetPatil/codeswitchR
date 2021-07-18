@@ -2,8 +2,15 @@
 # `codeswitchR`: Code switching in R
 
 This `README` is an attempt to collate a list of packages that may be
-helpful for teaching people how to switch between coding languages or
-ecosystems they **know** and the one they wish to **learn**.
+helpful for (self-)teaching new programming languages or different
+workflows in R. These packages provide a way to convert what one
+**knows** and what one may wish to **learn**.
+
+Needless to say, none of the packages can help you *fully* learn a new
+programming language, but the idea is to have a starting point that is
+**familiar** and **comfortable**, which would hopefully minimize the
+chances that you just give up in the early phase when the learning curve
+is steep.
 
 ------------------------------------------------------------------------
 
@@ -13,12 +20,6 @@ resources are added. Feel free to pull requests for the same. 😊
 ------------------------------------------------------------------------
 
 # Switch it up 🔀
-
-Not all of the packages mentioned below can help you *fully* learn a new
-programming language, but the idea is to have a starting point that is
-**familiar** and **comfortable**, which would hopefully minimize the
-chances that you just give up in the early phase when the learning curve
-is steep.
 
 | What you know  | What you would like to learn | Translator 📦                                                                                              | Examples                                                 |
 |----------------|------------------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
