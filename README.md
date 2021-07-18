@@ -12,13 +12,23 @@ programming language, but the idea is to have a starting point that is
 chances that you just give up in the early phase when the learning curve
 is steep.
 
-------------------------------------------------------------------------
+``` r
+knitr::include_graphics("examples/monster_support.jpeg")
+```
+
+<img src="examples/monster_support.jpeg" width="100%" />
+
+<!-- <center> -->
+
+Illustration by [Allison
+Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
+<!-- </center> -->
+
+# Improving this document
 
 This is in no way a complete list and I would appreciate if more
 resources are added. Feel free to [pull
 requests](https://github.com/IndrajeetPatil/codeswitchR) for the same. 😊
-
-------------------------------------------------------------------------
 
 # Switch it up 🔀
 
