@@ -36,14 +36,14 @@ Illustration by [Allison Horst](https://github.com/allisonhorst/stats-illustrati
 # Improving this document
 
 This is in no way a complete list and I would appreciate if more resources are
-added. Feel free to [pull requests](https://github.com/IndrajeetPatil/codeswitchR) for the same. 😊
+added. Feel free to make [pull requests](https://github.com/IndrajeetPatil/codeswitchR) to improve this document, either by adding more examples or improving on the existing ones. 😊
 
 In case you were wondering, the images of source code have been prepared using
 [carbon](https://carbon.now.sh/).
 
 # Switch it up 🔀
 
-What you know | What you would like to learn | Switch 📦 | Examples
+What you know | What you're learning | Switch 📦 | Examples
 ----------------- | ----------------- | ----------------- | ----------------- 
 `dplyr` | `data.table` | [`dtplyr`](https://dtplyr.tidyverse.org/articles/translation.html) | `r knitr::include_graphics("examples/dplyr_datatable.jpeg")`
 `dplyr` | `SQL` | [`dbplyr`](https://dbplyr.tidyverse.org/articles/sql.html) | `r knitr::include_graphics("examples/dplyr_sql.jpeg")`
@@ -55,8 +55,3 @@ What you know | What you would like to learn | Switch 📦 | Examples
 `R` | `HTML` | [`htmltools`](https://rstudio.github.io/htmltools/) | `r knitr::include_graphics("examples/r_html.jpeg")`
 `R` | `YAML` | [`ymlthis`](https://ymlthis.r-lib.org/index.html) | `r knitr::include_graphics("examples/r_yaml.png")`
 
-<!-- To create a copy of the `README.html`. -->
-
-<!-- ```{r} -->
-<!-- fs::file_copy("README.html", "index.html") -->
-<!-- ``` -->
