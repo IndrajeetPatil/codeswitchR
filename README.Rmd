@@ -28,7 +28,7 @@ that you just give up in the early phase when the learning curve is steep.
 ---
 
 This is in no way a complete list and I would appreciate if more resources are
-added. Feel free to pull requests for the same. 😊
+added. Feel free to [pull requests](https://github.com/IndrajeetPatil/codeswitchR) for the same. 😊
 
 ---
 
@@ -43,6 +43,7 @@ What you know | What you would like to learn | Translator 📦 | Examples
 `R`/`plotmath` | `LaTeX` | [`simsalapar`](https://rstudio-pubs-static.s3.amazonaws.com/268872_483cb8ee959642b68e9cf2b84eda1e06.html) | `r knitr::include_graphics("examples/plotmath_latex.jpeg")`
 `markdown` | `LaTeX`, `HTML`, `xml` | [`commonmark`](https://github.com/r-lib/commonmark) | `r knitr::include_graphics("examples/markdown_many.jpeg")`
 `R` | `JSON` | [`jsonlite`](https://cran.r-project.org/web/packages/jsonlite/vignettes/json-mapping.pdf) | `r knitr::include_graphics("examples/r_json.jpeg")`
+`R` | `HTML` | [`htmltools`](https://rstudio.github.io/htmltools/) | `r knitr::include_graphics("examples/r_html.jpeg")`
 `R` | `YAML` | [`ymlthis`](https://ymlthis.r-lib.org/index.html) | `r knitr::include_graphics("examples/r_yaml.png")`
 
 <!-- To create a copy of the `README.html`. -->
