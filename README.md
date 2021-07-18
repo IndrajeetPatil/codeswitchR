@@ -26,9 +26,12 @@ This is in no way a complete list and I would appreciate if more
 resources are added. Feel free to [pull
 requests](https://github.com/IndrajeetPatil/codeswitchR) for the same. 😊
 
+In case you were wondering, the images of source code have been prepared
+using [carbon](https://carbon.now.sh/).
+
 # Switch it up 🔀
 
-| What you know  | What you would like to learn | Translator 📦                                                                                              | Examples                                                 |
+| What you know  | What you would like to learn | Switch 📦                                                                                                  | Examples                                                 |
 |----------------|------------------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 | `dplyr`        | `data.table`                 | [`dtplyr`](https://dtplyr.tidyverse.org/articles/translation.html)                                        | <img src="examples/dplyr_datatable.jpeg" width="1108" /> |
 | `dplyr`        | `SQL`                        | [`dbplyr`](https://dbplyr.tidyverse.org/articles/sql.html)                                                | <img src="examples/dplyr_sql.jpeg" width="1016" />       |
