@@ -33,14 +33,14 @@ using [carbon](https://carbon.now.sh/).
 
 # Switch it up 🔀
 
-| What you know  | What you’re learning   | Switch 📦                                                                                                  | Examples                                                 |
-|----------------|------------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
-| `dplyr`        | `data.table`           | [`dtplyr`](https://dtplyr.tidyverse.org/articles/translation.html)                                        | <img src="examples/dplyr_datatable.jpeg" width="1108" /> |
-| `dplyr`        | `SQL`                  | [`dbplyr`](https://dbplyr.tidyverse.org/articles/sql.html)                                                | <img src="examples/dplyr_sql.jpeg" width="1016" />       |
-| `SQL`          | `dplyr`                | [`tidyquery`](https://github.com/ianmcook/tidyquery/blob/master/README.md)                                | <img src="examples/sql_dplyr.jpeg" width="912" />        |
-| `LaTeX`        | `R`/`plotmath`         | [`latex2exp`](https://cran.r-project.org/web/packages/latex2exp/vignettes/using-latex2exp.html)           | <img src="examples/latex_plotmath.jpeg" width="1532" />  |
-| `R`/`plotmath` | `LaTeX`                | [`simsalapar`](https://rstudio-pubs-static.s3.amazonaws.com/268872_483cb8ee959642b68e9cf2b84eda1e06.html) | <img src="examples/plotmath_latex.jpeg" width="1158" />  |
-| `markdown`     | `LaTeX`, `HTML`, `xml` | [`commonmark`](https://github.com/r-lib/commonmark)                                                       | <img src="examples/markdown_many.jpeg" width="1020" />   |
-| `R`            | `JSON`                 | [`jsonlite`](https://cran.r-project.org/web/packages/jsonlite/vignettes/json-mapping.pdf)                 | <img src="examples/r_json.jpeg" width="1552" />          |
-| `R`            | `HTML`                 | [`htmltools`](https://rstudio.github.io/htmltools/)                                                       | <img src="examples/r_html.jpeg" width="2048" />          |
-| `R`            | `YAML`                 | [`ymlthis`](https://ymlthis.r-lib.org/index.html)                                                         | <img src="examples/r_yaml.png" width="1184" />           |
+| What you know  | What you’re learning   | Switch 📦                                                                                                 | Examples                                   |
+|----------------|------------------------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------|
+| `dplyr`        | `data.table`           | [`dtplyr`](https://dtplyr.tidyverse.org/articles/translation.html)                                        | ![](examples/dplyr_datatable.jpeg)<!-- --> |
+| `dplyr`        | `SQL`                  | [`dbplyr`](https://dbplyr.tidyverse.org/articles/sql.html)                                                | ![](examples/dplyr_sql.jpeg)<!-- -->       |
+| `SQL`          | `dplyr`                | [`tidyquery`](https://github.com/ianmcook/tidyquery/blob/master/README.md)                                | ![](examples/sql_dplyr.jpeg)<!-- -->       |
+| `LaTeX`        | `R`/`plotmath`         | [`latex2exp`](https://cran.r-project.org/web/packages/latex2exp/vignettes/using-latex2exp.html)           | ![](examples/latex_plotmath.jpeg)<!-- -->  |
+| `R`/`plotmath` | `LaTeX`                | [`simsalapar`](https://rstudio-pubs-static.s3.amazonaws.com/268872_483cb8ee959642b68e9cf2b84eda1e06.html) | ![](examples/plotmath_latex.jpeg)<!-- -->  |
+| `markdown`     | `LaTeX`, `HTML`, `xml` | [`commonmark`](https://github.com/r-lib/commonmark)                                                       | ![](examples/markdown_many.jpeg)<!-- -->   |
+| `R`            | `JSON`                 | [`jsonlite`](https://cran.r-project.org/web/packages/jsonlite/vignettes/json-mapping.pdf)                 | ![](examples/r_json.jpeg)<!-- -->          |
+| `R`            | `HTML`                 | [`htmltools`](https://rstudio.github.io/htmltools/)                                                       | ![](examples/r_html.jpeg)<!-- -->          |
+| `R`            | `YAML`                 | [`ymlthis`](https://ymlthis.r-lib.org/index.html)                                                         | ![](examples/r_yaml.png)<!-- -->           |
